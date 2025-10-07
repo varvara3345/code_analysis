@@ -1,0 +1,11 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.egg-info/
+.Python
+.venv/
+venv/
+
+# PyCharm-specific
+.idea/
+*.iml
